@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Tokurom-Parts")(type "KiCad")(uri "${KIPRJMOD}/../Tokurom-Parts.pretty")(options "")(descr ""))
+)
